@@ -1,0 +1,36 @@
+{
+  "uno": {
+    "color": "#ffcc00",
+    "icon": "🃏",
+    "players": [
+      { "name": "Angel",   "score": 40, "img": "1" },
+      { "name": "Cesar",   "score": 30, "img": "6" },
+      { "name": "Adriano", "score": 20, "img": "2" },
+      { "name": "Leslie",  "score": 20, "img": "5" },
+      { "name": "Orlando", "score": 15, "img": "9" },
+      { "name": "Julio",   "score": 10, "img": "3" },
+      { "name": "Emily",   "score": 10, "img": "4" },
+      { "name": "Maria",   "score": 10, "img": "8" },
+      { "name": "Ronnie",  "score": 10, "img": "10" },
+      { "name": "Vicky",   "score": 0,  "img": "7" }
+    ]
+  },
+
+  "virus": {
+    "color": "#00e436",
+    "icon": "🦠",
+    "players": [
+      { "name": "Adriano", "score": 60, "img": "2" },
+      { "name": "Cesar",   "score": 55, "img": "6" },
+      { "name": "Angel",   "score": 30, "img": "1" },
+      { "name": "Julio",   "score": 30, "img": "3" },
+      { "name": "Orlando", "score": 25, "img": "9" },
+      { "name": "Emily",   "score": 20, "img": "4" },
+      { "name": "Leslie",  "score": 10, "img": "5" },
+      { "name": "Marcelo","score": 10, "img": "11" },
+      { "name": "Vicky",   "score": 10, "img": "7" },
+      { "name": "Ronnie",  "score": 5,  "img": "10" },
+      { "name": "Maria",   "score": 0,  "img": "8" }
+    ]
+  }
+}

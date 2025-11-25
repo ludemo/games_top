@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arcade Ranking System</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link href="./juegos.css" rel="stylesheet">
+</head>
+<body>
+
+    <h1 id="pageTitle">HIGH SCORES</h1>
+
+    <div class="game-selector">
+        <button class="nes-btn btn-bomb active" onclick="loadGame('bomberman')">Bomberman</button>
+        <button class="nes-btn btn-smash" onclick="loadGame('smash')">Smash</button>
+        <button class="nes-btn btn-uno" onclick="loadGame('uno')">UNO</button>
+        <button class="nes-btn btn-virus" onclick="loadGame('virus')">Virus</button>
+    </div>
+
+    <div class="ranking-container">
+        <div id="rankingContent"></div>
+        <button id="btnVerMas" class="insert-coin-btn">▼ VIEW MORE ▼</button>
+    </div>
+
+    <script src="./games.js"></script>
+</body>
+</html>
