@@ -15,7 +15,24 @@
       { "name": "Vicky",   "score": 0,  "img": "7" }
     ]
   },
-
+ "smash": {
+    "color": "#ffcc00",
+    "icon": "Smash",
+    "players": [
+      { "name": "Angel",   "score": 0, "img": "1" },
+      { "name": "Cesar",   "score": 0, "img": "6" },
+      { "name": "Adriano", "score": 0, "img": "2" },
+      { "name": "Leslie",  "score": 0, "img": "5" },
+      { "name": "Orlando", "score": 0, "img": "9" },
+      { "name": "Julio",   "score": 0, "img": "3" },
+      { "name": "Emily",   "score": 0, "img": "4" },
+      { "name": "Maria",   "score": 0, "img": "8" },
+      { "name": "Ronnie",  "score": 0, "img": "10" },
+      { "name": "Vicky",   "score": 0,  "img": "7" },
+      { "name": "Jeff",   "score": 20,  "img": "11" },
+      { "name": "Lucho",   "score": 40,  "img": "12" }
+    ]
+  },
   "virus": {
     "color": "#00e436",
     "icon": "🦠",
