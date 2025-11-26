@@ -30,7 +30,7 @@
       { "name": "Ronnie",  "score": 0, "img": "10" },
       { "name": "Vicky",   "score": 0,  "img": "7" },
       { "name": "Jeff",   "score": 20,  "img": "11" },
-      { "name": "Lucho",   "score": 40,  "img": "12" }
+      { "name": "Lucho",   "score": 60,  "img": "12" }
     ]
   },
   "virus": {
