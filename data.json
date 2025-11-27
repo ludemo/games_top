@@ -49,5 +49,24 @@
       { "name": "Ronnie",  "score": 5,  "img": "10" },
       { "name": "Maria",   "score": 0,  "img": "8" }
     ]
+  },
+  "bomberman": {
+    "color": "#00e436",
+    "icon": "💣",
+    "players": [
+      { "name": "Adriano", "score": 0, "img": "2" },
+      { "name": "Cesar",   "score": 0, "img": "6" },
+      { "name": "Angel",   "score": 0, "img": "1" },
+      { "name": "Julio",   "score": 0, "img": "3" },
+      { "name": "Orlando", "score": 0, "img": "9" },
+      { "name": "Emily",   "score": 10, "img": "4" },
+      { "name": "Leslie",  "score": 0, "img": "5" },
+      { "name": "Marcelo","score": 0, "img": "11" },
+      { "name": "Vicky",   "score": 0, "img": "7" },
+      { "name": "Ronnie",  "score": 0,  "img": "10" },
+      { "name": "Maria",   "score": 0,  "img": "8" },
+       { "name": "Lucas",   "score": 40,  "img": "12" },
+       { "name": "Lucho",   "score": 10,  "img": "13" }
+    ]
   }
 }
