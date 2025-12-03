@@ -19,19 +19,19 @@
     "color": "#ffcc00",
     "icon": "Smash",
     "players": [
-      { "name": "Angel",   "score": 0, "img": "1" },
-      { "name": "Cesar",   "score": 0, "img": "6" },
+      { "name": "Angel",   "score": 10, "img": "1" },
+      { "name": "Cesar",   "score": 20, "img": "6" },
       { "name": "Adriano", "score": 0, "img": "2" },
       { "name": "Leslie",  "score": 0, "img": "5" },
-      { "name": "Orlando", "score": 40, "img": "9" },
-      { "name": "Alex", "score": 10, "img": "13" },
-      { "name": "Julio",   "score": 0, "img": "3" },
+      { "name": "Orlando", "score": 80, "img": "9" },
+      { "name": "Alex", "score": 50, "img": "13" },
+      { "name": "Julio",   "score": 30, "img": "3" },
       { "name": "Emily",   "score": 0, "img": "4" },
       { "name": "Maria",   "score": 0, "img": "8" },
       { "name": "Ronnie",  "score": 0, "img": "10" },
       { "name": "Vicky",   "score": 0,  "img": "7" },
-      { "name": "Jeff",   "score": 20,  "img": "11" },
-      { "name": "Lucho",   "score": 80,  "img": "12" }
+      { "name": "Jeff",   "score": 50,  "img": "11" },
+      { "name": "Lucho",   "score": 90,  "img": "12" }
     ]
   },
   "virus": {
