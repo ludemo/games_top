@@ -23,7 +23,7 @@
       { "name": "Cesar",   "score": 20, "img": "6" },
       { "name": "Adriano", "score": 0, "img": "2" },
       { "name": "Leslie",  "score": 0, "img": "5" },
-      { "name": "Orlando", "score": 110, "img": "9" },
+      { "name": "Orlando", "score": 130, "img": "9" },
       { "name": "Alex", "score": 60, "img": "13" },
       { "name": "Julio",   "score": 60, "img": "3" },
       { "name": "Emily",   "score": 0, "img": "4" },
@@ -31,7 +31,8 @@
       { "name": "Ronnie",  "score": 0, "img": "10" },
       { "name": "Vicky",   "score": 0,  "img": "7" },
       { "name": "Jeff",   "score": 120,  "img": "11" },
-      { "name": "Lucho",   "score": 140,  "img": "12" }
+      { "name": "Lucho",   "score": 170,  "img": "12" },
+      { "name": "Amat", "score":60,"img":14"},
     ]
   },
   "virus": {
