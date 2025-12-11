@@ -32,7 +32,7 @@
       { "name": "Vicky",   "score": 0,  "img": "7" },
       { "name": "Jeff",   "score": 120,  "img": "11" },
       { "name": "Lucho",   "score": 170,  "img": "12" },
-      { "name": "Amat", "score":60,"img":14"},
+      { "name": "Amat", "score":60,"img":"14"},
     ]
   },
   "virus": {
