@@ -19,19 +19,19 @@
     "color": "#ffcc00",
     "icon": "Smash",
     "players": [
-      { "name": "Angel",   "score": 30, "img": "1" },
-      { "name": "Cesar",   "score": 20, "img": "6" },
+      { "name": "Angel",   "score": 50, "img": "1" },
+      { "name": "Cesar",   "score": 40, "img": "6" },
       { "name": "Adriano", "score": 0, "img": "2" },
       { "name": "Leslie",  "score": 0, "img": "5" },
       { "name": "Orlando", "score": 130, "img": "9" },
-      { "name": "Alex", "score": 60, "img": "13" },
-      { "name": "Julio",   "score": 60, "img": "3" },
+      { "name": "Alex", "score": 130, "img": "13" },
+      { "name": "Julio",   "score": 130, "img": "3" },
       { "name": "Emily",   "score": 0, "img": "4" },
       { "name": "Maria",   "score": 0, "img": "8" },
       { "name": "Ronnie",  "score": 0, "img": "10" },
       { "name": "Vicky",   "score": 0,  "img": "7" },
-      { "name": "Jeff",   "score": 120,  "img": "11" },
-      { "name": "Lucho",   "score": 170,  "img": "12" },
+      { "name": "Jeff",   "score": 180,  "img": "11" },
+      { "name": "Lucho",   "score": 220,  "img": "12" },
       { "name": "Amat", "score":60,"img":"14"}
     ]
   },
@@ -48,6 +48,23 @@
       { "name": "Leslie",  "score": 10, "img": "5" },
       { "name": "Marcelo","score": 10, "img": "11" },
       { "name": "Vicky",   "score": 10, "img": "7" },
+      { "name": "Ronnie",  "score": 5,  "img": "10" },
+      { "name": "Maria",   "score": 0,  "img": "8" }
+    ]
+  },
+  "mario kart": {
+    "color": "#00e436",
+    "icon": "🏎️",
+    "players": [
+      { "name": "Adriano", "score": 0, "img": "2" },
+      { "name": "Cesar",   "score": 10, "img": "6" },
+      { "name": "Angel",   "score": 40, "img": "1" },
+      { "name": "Julio",   "score": 0, "img": "3" },
+      { "name": "Orlando", "score": 0, "img": "9" },
+      { "name": "Emily",   "score": 0, "img": "4" },
+      { "name": "Leslie",  "score": 0, "img": "5" },
+      { "name": "Marcelo","score": 0, "img": "11" },
+      { "name": "Vicky",   "score": 0, "img": "7" },
       { "name": "Ronnie",  "score": 5,  "img": "10" },
       { "name": "Maria",   "score": 0,  "img": "8" }
     ]
